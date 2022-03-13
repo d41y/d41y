@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @y1ad
+- 👀 I’m interested in offensive security, OSINT, threat intelligence & threat hunting.
