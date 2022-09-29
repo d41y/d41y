@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @y1ad
-- 👀 I’m interested in offensive security, OSINT, threat intelligence & threat hunting.
+- 👋 Hi, I’m @d4ly
+- 👀 I’m interested in offensive security, OSINT, threat intelligence & threat hunting. I am on the Synack Red Team and enjoy other bug bounties too.
