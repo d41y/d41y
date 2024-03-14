@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @d4ly
-- 👀 I’m interested in offensive security, OSINT, threat intelligence & threat hunting. I am on a member of the Synack Red Team and spend time on other bugbounty platforms too.
