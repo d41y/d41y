@@ -2,8 +2,8 @@
 
 ## Challenges / Modules
 
-| Type | Name | Website | URL | Date | Notes |
-| ---- | ---- | ------- | --- | ---- | ----- |
+| Type | Category | Name | Website | URL | Date | Notes |
+| ---- | -------- | ---- | ------- | --- | ---- | ----- |
 
 ## CTFs
 
