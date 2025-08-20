@@ -1,12 +1,14 @@
-## Done
+# Done
 
-### Challenges / Modules
+## Challenges / Modules
 
 | Type | Name | Website | URL | Date | Notes |
 | ---- | ---- | ------- | --- | ---- | ----- |
 
-### CTFs
+## CTFs
 
-#### Deutschlands Bester Hacker - Qualifier
+### Deutschlands Bester Hacker - Qualifier
 
-**Platz**:
+<img src=./ctf_logos/dbh2025.png alt="dbh2025" width="300">
+
+**Platz**: 26
