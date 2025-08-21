@@ -4,7 +4,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date | Notes |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- | ----- |
-| Challenge | Web | Local Authority | picoCTF | https://play.picoctf.org/practice/challenge/278 | 21.08.2025 |
+| Challenge | Web | Local Authority | easy | picoCTF | https://play.picoctf.org/practice/challenge/278 | 21.08.2025 |
 | Challenge | Web | Unminify | easy | picoCTF | https://play.picoctf.org/practice/challenge/426 | 21.08.2025 |
 | Challenge | Web | Cookie Monster Secret Recipe | easy | picoCTF | https://play.picoctf.org/practice/challenge/469 | 21.08.2025 | 
 | Challenge | Pwn | Getting Started | very easy | HTB | https://ctf.hackthebox.com/event/1434 | 21.08.2025 | 
