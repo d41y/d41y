@@ -4,6 +4,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date | Notes |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- | ----- |
+| Challenge | Pwn | FD | easy | pwnable.kr | http://www.pwnable.kr | 22.08.2025 |
 | Challenge | Web | Local Authority | easy | picoCTF | https://play.picoctf.org/practice/challenge/278 | 21.08.2025 |
 | Challenge | Web | Unminify | easy | picoCTF | https://play.picoctf.org/practice/challenge/426 | 21.08.2025 |
 | Challenge | Web | Cookie Monster Secret Recipe | easy | picoCTF | https://play.picoctf.org/practice/challenge/469 | 21.08.2025 | 
