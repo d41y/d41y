@@ -4,6 +4,10 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date | Notes |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- | ----- |
+| Challenge | Web | IntroToBurp | easy | picoCTF | https://play.picoctf.org/practice/challenge/419 | 23.08.2025 |
+| Challenge | Web | Insp3ctor | easy | picoCTF | https://play.picoctf.org/practice/challenge/18 | 23.08.2025 |
+| Challenge | Web | Includes | easy | picoCTF | https://play.picoctf.org/practice/challenge/274 | 23.08.2025 |
+| Challenge | Web | Cookies | easy | picoCTF | https://play.picoctf.org/practice/challenge/173 | 23.08.2025 |
 | Module | Pivoting, Tunneling, And Port Forwarding | medium | HTB | https://academy.hackthebox.com/module/details/158 | 23.08.2025 |
 | Challenge | Web | dont-use-client-side | easy | picoCTF | https://play.picoctf.org/practice/challenge/66 | 22.08.2025 |
 | Challenge | Pwn | FD | easy | pwnable.kr | http://www.pwnable.kr | 22.08.2025 |
