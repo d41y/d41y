@@ -4,6 +4,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date | Notes |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- | ----- |
+| Machine | Linux | Previous | medium | HTB | https://app.hackthebox.com/machines/Previous | 23.08.2025 |
 | Challenge | Web | IntroToBurp | easy | picoCTF | https://play.picoctf.org/practice/challenge/419 | 23.08.2025 |
 | Challenge | Web | Insp3ctor | easy | picoCTF | https://play.picoctf.org/practice/challenge/18 | 23.08.2025 |
 | Challenge | Web | Includes | easy | picoCTF | https://play.picoctf.org/practice/challenge/274 | 23.08.2025 |
