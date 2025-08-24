@@ -4,6 +4,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date | Notes |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- | ----- |
+| Machine | Linux | Rabbit Store | medium | THM | https://tryhackme.com/room/rabbitstore | 24.08.2025 |
 | Machine | Linux | Previous | medium | HTB | https://app.hackthebox.com/machines/Previous | 23.08.2025 |
 | Challenge | Web | IntroToBurp | easy | picoCTF | https://play.picoctf.org/practice/challenge/419 | 23.08.2025 |
 | Challenge | Web | Insp3ctor | easy | picoCTF | https://play.picoctf.org/practice/challenge/18 | 23.08.2025 |
