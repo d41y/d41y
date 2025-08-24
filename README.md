@@ -4,6 +4,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date | Notes |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- | ----- |
+| Module | ICS | Attacking ICS Plant #1 | THM | https://tryhackme.com/room/attackingics1 | 24.08.2025 |
 | Machine | Linux | Rabbit Store | medium | THM | https://tryhackme.com/room/rabbitstore | 24.08.2025 |
 | Machine | Linux | Previous | medium | HTB | https://app.hackthebox.com/machines/Previous | 23.08.2025 |
 | Challenge | Web | IntroToBurp | easy | picoCTF | https://play.picoctf.org/practice/challenge/419 | 23.08.2025 |
