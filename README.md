@@ -4,6 +4,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date | Notes |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- | ----- |
+| Machine | Linux | Soulmate | easy | HTB | https://app.hackthebox.com/machines/Soulmate | 07.09.2025 |
 | Module | CPTS | Attacking Common Services | medium | HTB | https://academy.hackthebox.com/module/details/116 | 04.09.2025 |
 | Machine | Linux | Strutted | medium | HTB | https://app.hackthebox.com/machines/Strutted | 26.08.2025 |
 | Module | ICS | Attacking ICS Plant #2 | medium | THM | https://tryhackme.com/room/attackingics2 | 25.08.2025 |
