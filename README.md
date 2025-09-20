@@ -2,8 +2,8 @@
 
 ## Challenges / Modules
 
-| Type | Category | Name | Difficulty | Website | URL | Date | Notes |
-| ---- | -------- | ---- | ---------- | ------- | --- | ---- | ----- |
+| Type | Category | Name | Difficulty | Website | URL | Date |
+| ---- | -------- | ---- | ---------- | ------- | --- | ---- |
 | Challenge | OSINT | Social Media Investigation Hub | very easy | HTB | https://app.hackthebox.com/challenges/975 | 14.09.2025 |
 | Machine | Linux | Soulmate | easy | HTB | https://app.hackthebox.com/machines/Soulmate | 07.09.2025 |
 | Module | CPTS | Attacking Common Services | medium | HTB | https://academy.hackthebox.com/module/details/116 | 04.09.2025 |
