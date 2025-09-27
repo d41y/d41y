@@ -4,8 +4,9 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
-| Machine | Linux | Archangel | Easy | THM | https://tryhackme.com/room/archangel | 26.09.2025 |
-| Machine | Linux | Expressway | Easy | HTB | https://app.hackthebox.com/machines/Expressway | 21.09.2025 |
+| Module | CPTS | Active Directory Enumeration & Attacks | medium | HTB | https://academy.hackthebox.com/module/details/143 | 27.09.2025 |
+| Machine | Linux | Archangel | easy | THM | https://tryhackme.com/room/archangel | 26.09.2025 |
+| Machine | Linux | Expressway | easy | HTB | https://app.hackthebox.com/machines/Expressway | 21.09.2025 |
 | Machine | Linux | HackNet | medium | HTB | https://app.hackthebox.com/machines/HackNet | 20.09.2025 |
 | Challenge | OSINT | Social Media Investigation Hub | very easy | HTB | https://app.hackthebox.com/challenges/975 | 14.09.2025 |
 | Machine | Linux | Soulmate | easy | HTB | https://app.hackthebox.com/machines/Soulmate | 07.09.2025 |
