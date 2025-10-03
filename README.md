@@ -4,6 +4,10 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Machine | Linux | Potato | easy | OffSec | https://portal.offsec.com/machine/potato-445 | 03.10.2025 |
+| Challenge | OSINT | The Puppet Master | very easy | HTB | https://app.hackthebox.com/challenges/977 | 01.10.2025 |
+| Machine | Linux | Guardian | hard | HTB | https://app.hackthebox.com/machines/703 | 01.10.2025 |
+| Machine | Linux | Imagery | medium | HTB | https://app.hackthebox.com/machines/751 | 30.09.2025 |
 | Module | CPTS | Active Directory Enumeration & Attacks | medium | HTB | https://academy.hackthebox.com/module/details/143 | 27.09.2025 |
 | Machine | Linux | Archangel | easy | THM | https://tryhackme.com/room/archangel | 26.09.2025 |
 | Machine | Linux | Expressway | easy | HTB | https://app.hackthebox.com/machines/Expressway | 21.09.2025 |
