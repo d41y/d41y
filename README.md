@@ -4,6 +4,8 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Machine | Linux | FunboxEasy | easy | OffSec | https://portal.offsec.com/machine/cybersploit1-425 | 04.10.2025 |
+| Machine | Linux | CyberSploit1 | easy | OffSec | https://portal.offsec.com/machine/funboxeasy-497 | 03.10.2025 |
 | Machine | Linux | Potato | easy | OffSec | https://portal.offsec.com/machine/potato-445 | 03.10.2025 |
 | Challenge | OSINT | The Puppet Master | very easy | HTB | https://app.hackthebox.com/challenges/977 | 01.10.2025 |
 | Machine | Linux | Guardian | hard | HTB | https://app.hackthebox.com/machines/703 | 01.10.2025 |
