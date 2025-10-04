@@ -4,6 +4,8 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Machine | Linux | Seppuku | easy | OffSec | https://portal.offsec.com/machine/seppuku-384 | 04.10.2025 |
+| Machine | Linux | Katana | easy | OffSec | https://portal.offsec.com/machine/katana-344 | 04.10.2025 |
 | Machine | Linux | FunboxEasy | easy | OffSec | https://portal.offsec.com/machine/cybersploit1-425 | 04.10.2025 |
 | Machine | Linux | CyberSploit1 | easy | OffSec | https://portal.offsec.com/machine/funboxeasy-497 | 03.10.2025 |
 | Machine | Linux | Potato | easy | OffSec | https://portal.offsec.com/machine/potato-445 | 03.10.2025 |
