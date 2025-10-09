@@ -1,7 +1,7 @@
 # Stats
 
 <div align="center">
-  <a href="https://www.hackthebox.eu/home/users/profile/1846232" style="display:inline-block;margin-right:10px;">
+  <a href="https://app.hackthebox.com/profile/1846232" style="display:inline-block;margin-right:10px;">
     <img src="https://www.hackthebox.eu/badge/image/1846232" alt="d41y on HTB">
   </a>
   <a href="https://www.codewars.com/users/d41y" style="display:inline-block;">
