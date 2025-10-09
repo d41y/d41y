@@ -1,6 +1,17 @@
-# Done - 25
+# Stats
 
-## Challenges / Modules
+<div align="center">
+  <a href="https://www.hackthebox.eu/home/users/profile/1846232" style="display:inline-block;margin-right:10px;">
+    <img src="https://www.hackthebox.eu/badge/image/1846232" alt="d41y on HTB">
+  </a>
+  <a href="https://www.codewars.com/users/d41y" style="display:inline-block;">
+    <img src="https://www.codewars.com/users/d41y/badges/large" alt="d41y on Codewars">
+  </a>
+</div>
+
+## 2025
+
+### Challenges / Modules
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
@@ -42,9 +53,9 @@
 | Challenge | OSINT | The Suspicious Domain | very easy | HTB| https://app.hackthebox.com/challenges/973 | 20.08.2025 |
 | Challenge | OSINT | The Suspicious Reviewer | very easy | HTB| https://app.hackthebox.com/challenges/972 | 20.08.2025 |
 
-## CTFs
+### CTFs
 
-### Deutschlands Bester Hacker - Qualifier
+#### Deutschlands Bester Hacker - Qualifier
 
 <a href="https://github.com/d41y" target="_blank">
   <img src="./ctf_logos/dbh2025.png" alt="dbh2025" width="300">
