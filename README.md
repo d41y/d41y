@@ -4,6 +4,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Machine | Windows | DarkZero | hard | HTB | https://app.hackthebox.com/machines/754 | 05.10.2025 |
 | Machine | Linux | Seppuku | easy | OffSec | https://portal.offsec.com/machine/seppuku-384 | 04.10.2025 |
 | Machine | Linux | Katana | easy | OffSec | https://portal.offsec.com/machine/katana-344 | 04.10.2025 |
 | Machine | Linux | FunboxEasy | easy | OffSec | https://portal.offsec.com/machine/cybersploit1-425 | 04.10.2025 |
