@@ -11,6 +11,11 @@
 
 ## 2025
 
+### Programming Projects
+
+- [pydle](https://github.com/d41y/pydle): Minimalistic Wordle rebuild in german.
+- [Task-CLI](https://github.com/d41y/Task-CLI): Terminal based task manager / to-do list.
+
 ### Challenges / Modules
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
