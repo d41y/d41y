@@ -21,6 +21,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CPTS | Linux Privilege Escalation | easy | HTB | https://academy.hackthebox.com/module/details/51 | 23.10.2025 | 
 | Machine | Windows | Signed | medium | HTB | https://app.hackthebox.com/machines/775 | 12.10.2025 |
 | Machine | Windows | DarkZero | hard | HTB | https://app.hackthebox.com/machines/754 | 05.10.2025 |
 | Machine | Linux | Seppuku | easy | OffSec | https://portal.offsec.com/machine/seppuku-384 | 04.10.2025 |
