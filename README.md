@@ -21,6 +21,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Machine | Linux | Shakabrah | easy | OffSec | https://portal.offsec.com/machine/shakabrah-369 | 24.10.2025 |
 | Module | CPTS | Linux Privilege Escalation | easy | HTB | https://academy.hackthebox.com/module/details/51 | 23.10.2025 | 
 | Machine | Windows | Signed | medium | HTB | https://app.hackthebox.com/machines/775 | 12.10.2025 |
 | Machine | Windows | DarkZero | hard | HTB | https://app.hackthebox.com/machines/754 | 05.10.2025 |
