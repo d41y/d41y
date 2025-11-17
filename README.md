@@ -21,7 +21,9 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
-| Machine | Linux | Giveback | medium | HTB | https://app.hackthebox.com/machines/796 |
+| Machine | Windows | Eighteen | easy | HTB | https://app.hackthebox.com/machines/805 | 16.11.2025 |
+| Machine | Windows | NanoCorp | hard | HTB | https://app.hackthebox.com/machines/802 | 15.11.2025 |
+| Machine | Linux | Giveback | medium | HTB | https://app.hackthebox.com/machines/796 | 02.11.2025 |
 | Machine | Linux | Conversor | easy | HTB | https://app.hackthebox.com/machines/787 | 25.10.2025 |
 | Machine | Linux | Shakabrah | easy | OffSec | https://portal.offsec.com/machine/shakabrah-369 | 24.10.2025 |
 | Module | CPTS | Linux Privilege Escalation | easy | HTB | https://academy.hackthebox.com/module/details/51 | 23.10.2025 | 
