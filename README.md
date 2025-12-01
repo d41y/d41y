@@ -11,6 +11,32 @@
 
 ## 2025
 
+### To Do
+
+- [ ] Attacking Common Applications
+- [ ] Windows Privilege Escalation
+- [ ] Documentation & Reporting
+- [ ] Attacking Enterprise Networks
+- [ ] Web Fuzzing
+- [ ] Attacking GraphQL
+- [ ] API Attacks
+- [ ] Incident Handling Process
+- [ ] Windows Event Logs & Finding Evil
+- [ ] Introduction to Threat Hunting & Hunting With Elastic
+- [ ] Understanding Log Sources & Investigating with Splunk
+- [ ] Windows Attacks & Defense
+- [ ] Intro to Network Traffic Analysis
+- [ ] Intermediate Network Traffic Analysis
+- [ ] Working with IDS/IPS
+- [ ] Introduction to Malware Analysis
+- [ ] YARA & Sigma for SOC Analysts
+- [ ] Introduction to Digital Forensics
+- [ ] Detecting Windows Attacks with Splunk
+- [ ] Security Incident Reporting
+- [ ] Network Foundations
+- [ ] Introduction to Windows Command Line
+- [ ] Pentest in a Nutshell
+
 ### Programming Projects
 
 - <a href="https://github.com/d41y/pydle" target="_blank">pydle</a>: Minimalistic Wordle rebuild in German.
