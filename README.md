@@ -21,9 +21,10 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Machine | Windows | Fries | hard | HTB | https://app.hackthebox.com/machines/Fries | 29.11.2025 |
 | Machine | Linux | Lampiano | easy | OffSec | https://portal.offsec.com/machine/lampiao-94 | 21.11.2025 |
 | Machine | Linux | Amaterasu | easy | OffSec | https://portal.offsec.com/machine/amaterasu-49068 | 21.11.2025 |
-| Machine | Windows | Mirage | hard | HTB | https://app.hackthebox.com/machines/682 | 18.22.2025 |
+| Machine | Windows | Mirage | hard | HTB | https://app.hackthebox.com/machines/682 | 18.11.2025 |
 | Machine | Windows | Eighteen | easy | HTB | https://app.hackthebox.com/machines/805 | 16.11.2025 |
 | Machine | Windows | NanoCorp | hard | HTB | https://app.hackthebox.com/machines/802 | 15.11.2025 |
 | Machine | Linux | Giveback | medium | HTB | https://app.hackthebox.com/machines/796 | 02.11.2025 |
