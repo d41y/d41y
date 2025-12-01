@@ -43,7 +43,7 @@
 - <a href="https://github.com/d41y/Task-CLI" target="_blank">Task-CLI</a>: Terminal based task manager / to-do list.
 
 
-### Challenges / Modules
+### Challenges / Machines / Modules
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
