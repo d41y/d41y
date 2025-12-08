@@ -47,7 +47,9 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
-| Module | CPTS | Attacking Common Applications | medium | HTB https://academy.hackthebox.com/module/details/113 02.12.2025 |
+| Machine | Windows | MonitorsFour | HTB | https://app.hackthebox.com/machines/MonitorsFour | 07.12.2025 |
+| Machine | Linux | Gavel | medium | HTB | https://app.hackthebox.com/machines/Gavel | 06.12.2025 |
+| Module | CPTS | Attacking Common Applications | medium | HTB | https://academy.hackthebox.com/module/details/113 | 02.12.2025 |
 | Machine | Windows | Fries | hard | HTB | https://app.hackthebox.com/machines/Fries | 29.11.2025 |
 | Machine | Linux | Lampiano | easy | OffSec | https://portal.offsec.com/machine/lampiao-94 | 21.11.2025 |
 | Machine | Linux | Amaterasu | easy | OffSec | https://portal.offsec.com/machine/amaterasu-49068 | 21.11.2025 |
