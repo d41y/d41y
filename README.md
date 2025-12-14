@@ -13,9 +13,9 @@
 
 ### To Do
 
-- [ ] Attacking Common Applications
+- [x] Attacking Common Applications
 - [ ] Windows Privilege Escalation
-- [ ] Documentation & Reporting
+- [x] Documentation & Reporting
 - [ ] Attacking Enterprise Networks
 - [ ] Web Fuzzing
 - [ ] Attacking GraphQL
@@ -47,6 +47,9 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CPTS | Documentation & Reporting | easy | HTB | https://academy.hackthebox.com/module/162 | 14.12.2025 |
+| Sherlock | DFIR | CrownJewel-1 | very easy | HTB | https://app.hackthebox.com/sherlocks/CrownJewel-1 | 11.12.2025 |
+| Challenge | Web | Magical Palindrome | very easy | HTB | https://app.hackthebox.com/challenges/Magical%252520Palindrome | 11.12.2025 |
 | Machine | Windows | MonitorsFour | easy | HTB | https://app.hackthebox.com/machines/MonitorsFour | 07.12.2025 |
 | Machine | Linux | Gavel | medium | HTB | https://app.hackthebox.com/machines/Gavel | 06.12.2025 |
 | Module | CPTS | Attacking Common Applications | medium | HTB | https://academy.hackthebox.com/module/details/113 | 02.12.2025 |
