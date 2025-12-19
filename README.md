@@ -47,6 +47,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CDSA | Incident Handling Process | easy | HTB | https://academy.hackthebox.com/module/148 | 20.12.2025 |
 | Module | CDSA | Security Incident Reporting | easy | HTB | https://academy.hackthebox.com/module/238 | 19.12.2025 |
 | Module | CPTS | Documentation & Reporting | easy | HTB | https://academy.hackthebox.com/module/162 | 14.12.2025 |
 | Sherlock | DFIR | CrownJewel-1 | very easy | HTB | https://app.hackthebox.com/sherlocks/CrownJewel-1 | 11.12.2025 |
