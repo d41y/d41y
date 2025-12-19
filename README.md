@@ -32,7 +32,7 @@
 - [ ] YARA & Sigma for SOC Analysts
 - [ ] Introduction to Digital Forensics
 - [ ] Detecting Windows Attacks with Splunk
-- [ ] Security Incident Reporting
+- [x] Security Incident Reporting
 - [ ] Network Foundations
 - [ ] Introduction to Windows Command Line
 - [ ] Pentest in a Nutshell
@@ -47,6 +47,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CDSA | Security Incident Reporting | easy | HTB | https://academy.hackthebox.com/module/238 | 19.12.2025 |
 | Module | CPTS | Documentation & Reporting | easy | HTB | https://academy.hackthebox.com/module/162 | 14.12.2025 |
 | Sherlock | DFIR | CrownJewel-1 | very easy | HTB | https://app.hackthebox.com/sherlocks/CrownJewel-1 | 11.12.2025 |
 | Challenge | Web | Magical Palindrome | very easy | HTB | https://app.hackthebox.com/challenges/Magical%252520Palindrome | 11.12.2025 |
