@@ -9,6 +9,45 @@
   </a>
 </div>
 
+## 2026
+
+### To Do
+
+- [ ] Windows Privilege Escalation
+- [ ] Attacking Enterprise Networks
+- [ ] Web Fuzzing
+- [ ] Attacking GraphQL
+- [ ] API Attacks
+- [ ] Incident Handling Process
+- [ ] Windows Event Logs & Finding Evil
+- [ ] Introduction to Threat Hunting & Hunting With Elastic
+- [ ] Understanding Log Sources & Investigating with Splunk
+- [ ] Windows Attacks & Defense
+- [ ] Intro to Network Traffic Analysis
+- [ ] Intermediate Network Traffic Analysis
+- [ ] Working with IDS/IPS
+- [ ] Introduction to Malware Analysis
+- [ ] YARA & Sigma for SOC Analysts
+- [ ] Introduction to Digital Forensics
+- [ ] Detecting Windows Attacks with Splunk
+- [ ] Network Foundations
+- [ ] Introduction to Windows Command Line
+- [ ] Pentest in a Nutshell
+
+### Programming Projects
+
+### Challenges / Machines / Modules
+
+| Type | Category | Name | Difficulty | Website | URL | Date |
+| ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+
+### CTFs
+
+<details>
+<summary>
+Archive
+</summary>
+
 ## 2025
 
 ### To Do
@@ -113,3 +152,5 @@
 </a>
 
 **Platz**: 26
+
+</details>
