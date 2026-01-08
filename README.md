@@ -40,6 +40,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CDSA | Windows Event Logs & Finding Evil | medium | HTB | https://academy.hackthebox.com/module/details/216 | 08.01.2026 |
 
 ### CTFs
 
