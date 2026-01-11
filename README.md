@@ -19,7 +19,7 @@
 - [ ] Attacking GraphQL
 - [ ] API Attacks
 - [ ] Incident Handling Process
-- [ ] Windows Event Logs & Finding Evil
+- [x] Windows Event Logs & Finding Evil
 - [ ] Introduction to Threat Hunting & Hunting With Elastic
 - [ ] Understanding Log Sources & Investigating with Splunk
 - [ ] Windows Attacks & Defense
@@ -40,6 +40,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Machine | Linux | Browsed | medium | HTB | https://app.hackthebox.com/machines/Browsed | 11.01.2026 |
 | Module | CDSA | Windows Event Logs & Finding Evil | medium | HTB | https://academy.hackthebox.com/module/details/216 | 08.01.2026 |
 
 ### CTFs
