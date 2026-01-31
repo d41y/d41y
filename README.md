@@ -14,7 +14,7 @@
 ### To Do
 
 - [x] Windows Privilege Escalation
-- [ ] Attacking Enterprise Networks
+- [x] Attacking Enterprise Networks
 - [ ] Web Fuzzing
 - [ ] Attacking GraphQL
 - [ ] API Attacks
@@ -40,6 +40,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CPTS | Attacking Enterprise Networks | medium | HTB | https://academy.hackthebox.com/module/details/163 | 31.01.2026 | 
 | Module | CPTS | Windows Privilege Escalation | medium | HTB | https://academy.hackthebox.com/module/details/67 | 14.01.2026 |
 | Machine | Linux | Browsed | medium | HTB | https://app.hackthebox.com/machines/Browsed | 11.01.2026 |
 | Module | CDSA | Windows Event Logs & Finding Evil | medium | HTB | https://academy.hackthebox.com/module/details/216 | 08.01.2026 |
