@@ -40,6 +40,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Machine | Linux | Facts | easy | HTB | https://app.hackthebox.com/machines/Facts | 01.02.2026 |
 | Module | CPTS | Attacking Enterprise Networks | medium | HTB | https://academy.hackthebox.com/module/details/163 | 31.01.2026 | 
 | Module | CPTS | Windows Privilege Escalation | medium | HTB | https://academy.hackthebox.com/module/details/67 | 14.01.2026 |
 | Machine | Linux | Browsed | medium | HTB | https://app.hackthebox.com/machines/Browsed | 11.01.2026 |
