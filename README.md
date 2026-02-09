@@ -13,6 +13,8 @@
 
 ### To Do
 
+**Create "Attack (Chain)**: _Step-by-step on how to use different exploits I come across during HTB, OffSec, etc.; Python scripts!_
+
 - [x] Windows Privilege Escalation
 - [x] Attacking Enterprise Networks
 - [ ] Web Fuzzing
