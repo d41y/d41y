@@ -42,6 +42,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CWES | Attacking GraphQL | medium | HTB | https://academy.hackthebox.com/module/details/271 | 24.02.2026 |
 | Module | CWES | Web Fuzzing | easy | HTB | https://academy.hackthebox.com/module/details/280 | 20.02.2026 |
 | Machine | Linux | Facts | easy | HTB | https://app.hackthebox.com/machines/Facts | 01.02.2026 |
 | Module | CPTS | Attacking Enterprise Networks | medium | HTB | https://academy.hackthebox.com/module/details/163 | 31.01.2026 | 
