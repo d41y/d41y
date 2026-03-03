@@ -18,7 +18,7 @@
 - [x] Windows Privilege Escalation
 - [x] Attacking Enterprise Networks
 - [x] Web Fuzzing
-- [ ] Attacking GraphQL
+- [x] Attacking GraphQL
 - [ ] API Attacks
 - [ ] Incident Handling Process
 - [x] Windows Event Logs & Finding Evil
