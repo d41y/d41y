@@ -19,7 +19,7 @@
 - [x] Attacking Enterprise Networks
 - [x] Web Fuzzing
 - [x] Attacking GraphQL
-- [ ] API Attacks
+- [x] API Attacks
 - [ ] Incident Handling Process
 - [x] Windows Event Logs & Finding Evil
 - [ ] Introduction to Threat Hunting & Hunting With Elastic
@@ -42,6 +42,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CWES | API Attacks | medium | HTB | https://academy.hackthebox.com/app/module/268 | 07.03.2026 | 
 | Module | - | Network Foundations | easy | HTB | https://academy.hackthebox.com/app/module/289 | 05.03.2026 |
 | Module | - | Brief Intro to Hardware Attacks | medium | HTB | https://academy.hackthebox.com/app/module/230 | 03.03.2026 |
 | Module | CWES | Attacking GraphQL | medium | HTB | https://academy.hackthebox.com/module/details/271 | 24.02.2026 |
