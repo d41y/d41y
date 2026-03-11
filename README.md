@@ -20,9 +20,9 @@
 - [x] Web Fuzzing
 - [x] Attacking GraphQL
 - [x] API Attacks
-- [ ] Incident Handling Process
+- [x] Incident Handling Process
 - [x] Windows Event Logs & Finding Evil
-- [ ] Introduction to Threat Hunting & Hunting With Elastic
+- [x] Introduction to Threat Hunting & Hunting With Elastic
 - [ ] Understanding Log Sources & Investigating with Splunk
 - [ ] Windows Attacks & Defense
 - [ ] Intro to Network Traffic Analysis
@@ -42,6 +42,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CDSA | Introduction to Threat Hunting & Hunting With Elastic | medium | HTB | https://academy.hackthebox.com/app/module/214 | 11.03.2026 |
 | Module | CWES | API Attacks | medium | HTB | https://academy.hackthebox.com/app/module/268 | 07.03.2026 | 
 | Module | - | Network Foundations | easy | HTB | https://academy.hackthebox.com/app/module/289 | 05.03.2026 |
 | Module | - | Brief Intro to Hardware Attacks | medium | HTB | https://academy.hackthebox.com/app/module/230 | 03.03.2026 |
