@@ -25,7 +25,7 @@
 - [x] Introduction to Threat Hunting & Hunting With Elastic
 - [ ] Understanding Log Sources & Investigating with Splunk
 - [ ] Windows Attacks & Defense
-- [ ] Intro to Network Traffic Analysis
+- [x] Intro to Network Traffic Analysis
 - [ ] Intermediate Network Traffic Analysis
 - [ ] Working with IDS/IPS
 - [ ] Introduction to Malware Analysis
@@ -42,6 +42,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Module | CDSA | Intro to Network Traffic Analysis | medium | HTB | https://academy.hackthebox.com/app/module/81 | 17.03.2026 |
 | Module | CDSA | Introduction to Threat Hunting & Hunting With Elastic | medium | HTB | https://academy.hackthebox.com/app/module/214 | 11.03.2026 |
 | Module | CWES | API Attacks | medium | HTB | https://academy.hackthebox.com/app/module/268 | 07.03.2026 | 
 | Module | - | Network Foundations | easy | HTB | https://academy.hackthebox.com/app/module/289 | 05.03.2026 |
