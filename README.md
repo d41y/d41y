@@ -42,6 +42,10 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Challenge | Pwn | El Pipo | very easy | HTB | https://app.hackthebox.com/challenges/El%252520Pipo | 19.03.2026 |
+| Challenge | Pwn | Racecar | very easy | HTB | https://app.hackthebox.com/challenges/racecar | 19.03.2026 |
+| Challenge | Pwn | Mathematricks | very easy | HTB | https://app.hackthebox.com/challenges/Mathematricks | 19.03.2026 |
+| Challenge | Pwn | Questionnaire | very easy | HTB | https://app.hackthebox.com/challenges/Questionnaire | 19.03.2026 |
 | Module | CDSA | Intro to Network Traffic Analysis | medium | HTB | https://academy.hackthebox.com/app/module/81 | 17.03.2026 |
 | Module | CDSA | Introduction to Threat Hunting & Hunting With Elastic | medium | HTB | https://academy.hackthebox.com/app/module/214 | 11.03.2026 |
 | Module | CWES | API Attacks | medium | HTB | https://academy.hackthebox.com/app/module/268 | 07.03.2026 | 
