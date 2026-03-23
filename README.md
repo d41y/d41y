@@ -42,6 +42,7 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Challenge | Pwn | El Mundo | easy | HTB | https://app.hackthebox.com/challenges/El%2520Mundo?tab=play_challenge | 23.03.2026 |
 | Challenge | Pwn | El Teteo | very easy | HTB | https://app.hackthebox.com/challenges/El%252520Teteo | 20.03.2026 |
 | Challenge | Pwn | El Pipo | very easy | HTB | https://app.hackthebox.com/challenges/El%252520Pipo | 19.03.2026 |
 | Challenge | Pwn | Racecar | very easy | HTB | https://app.hackthebox.com/challenges/racecar | 19.03.2026 |
