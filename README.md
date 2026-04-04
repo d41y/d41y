@@ -42,6 +42,19 @@
 
 | Type | Category | Name | Difficulty | Website | URL | Date |
 | ---- | -------- | ---- | ---------- | ------- | --- | ---- |
+| Challenge | Pwn | Getting Started | very easy | HTB | https://app.hackthebox.com/challenges/Getting%2520Started | 04.04.2026 |
+| Challenge | Web | Phantom Script | very easy | HTB | https://app.hackthebox.com/challenges/Phantom%2520Script | 04.04.2026 |
+| Challenge | Forensics | Alien Cradle | very easy | HTB | https://app.hackthebox.com/challenges/Alien%252520Cradle | 04.04.2026 |
+| Challenge | Coding | Addition | very easy | HTB | https://app.hackthebox.com/challenges/Addition | 04.04.2026 |
+| Challenge | Forensics | Extraterrestrial Persistence | very easy | HTB | https://app.hackthebox.com/challenges/Extraterrestrial%2520Persistence | 04.04.2026 |
+| Challenge | Web | Trapped Source | very easy | HTB | https://app.hackthebox.com/challenges/Trapped%2520Source | 04.04.2026 |
+| Challenge | Coding | Reversal | very easy | HTB | https://app.hackthebox.com/challenges/Reversal | 04.04.2026 |
+| Challenge | Coding | Oddly Even | very easy | HTB | https://app.hackthebox.com/challenges/Oddly%2520Even | 04.04.2026 |
+| Machine | Windows | Legacy | easy | HTB | https://app.hackthebox.com/machines/Legacy | 04.04.2026 |
+| Machine | Linux | Antique | easy | HTB | https://app.hackthebox.com/machines/Antique | 04.04.2026 |
+| Machine | Linux | Bashed | easy | HTB | https://app.hackthebox.com/machines/Bashed | 04.04.2026 |
+| Machine | Linux | Wifinetic | easy | HTB | https://app.hackthebox.com/machines/Wifinetic | 03.04.2026 |
+| Machine | Linux | Paper | easy | HTB | https://app.hackthebox.com/machines/Paper | 03.04.2026|
 | Machine | Linux | GoodGames | easy | HTB | https://app.hackthebox.com/machines/GoodGames | 01.04.2026 |
 | Challenge | Pwn | El Mundo | easy | HTB | https://app.hackthebox.com/challenges/El%2520Mundo?tab=play_challenge | 23.03.2026 |
 | Challenge | Pwn | El Teteo | very easy | HTB | https://app.hackthebox.com/challenges/El%252520Teteo | 20.03.2026 |
