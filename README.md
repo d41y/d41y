@@ -13,6 +13,8 @@
 
 ### To Do
 
+#### HTB Modules
+
 **Create "Attack (Chain)**: _Step-by-step on how to use different exploits I come across during HTB, OffSec, etc.; Python scripts!_
 
 - [x] Windows Privilege Escalation
@@ -35,6 +37,13 @@
 - [x] Network Foundations
 - [ ] Introduction to Windows Command Line
 - [ ] Pentest in a Nutshell
+
+#### Projects
+
+- [ ] VPS
+- [ ] TOR Router
+- [ ] Doc Management Tool
+- [ ] ...
 
 ### Programming Projects
 
