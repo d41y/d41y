@@ -11,6 +11,68 @@
 
 ## 2026
 
+### Preparation
+
+#### OSCP
+
+- [ ] Busqueda
+- [ ] UpDown
+- [ ] Sau
+- [ ] Help
+- [ ] Broker
+- [ ] Intentions
+- [ ] Soccer
+- [ ] Keeper
+- [ ] Monitored
+- [ ] BoardLight
+- [ ] Networked
+- [ ] CozyHosting
+- [ ] Editorial
+- [ ] Magic
+- [ ] Pandora
+- [ ] Builder
+- [ ] LinkVortex
+- [ ] Dog
+- [ ] Markup
+- [ ] Editor
+- [ ] Usage
+- [ ] Titanic
+- [ ] Outbound
+- [ ] Editor
+- [ ] Expressway
+- [ ] Browsed
+- [ ] Escape
+- [ ] Servmon
+- [ ] Support
+- [ ] StreamIO
+- [ ] Blackfield
+- [ ] Intelligence
+- [ ] Jeeves
+- [ ] Manager
+- [ ] Access
+- [ ] Aero
+- [ ] Mailing
+- [ ] Administrator
+- [ ] Certified
+- [ ] Heist
+- [ ] Tombwatcher
+- [ ] Active
+- [ ] Forest
+- [ ] Sauna
+- [ ] Monteverde
+- [ ] Timelapse
+- [ ] Return
+- [ ] Cascade
+- [ ] Flight
+- [ ] Cicada
+- [ ] Escape
+- [ ] TheFrizz
+- [ ] Fluffy
+- [ ] Puppy
+- [ ] Voleur
+- [ ] Signed
+- [ ] Eighteen
+
 ### To Do
 
 #### HTB Modules
